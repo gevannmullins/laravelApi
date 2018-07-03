@@ -1,0 +1,29 @@
+
+Create a Laravel API
+https://laravel.com/docs/5.6/eloquent-resources
+
+Create a user register endpoint
+i.      [POST] Endpoint: {server_url}/api/register
+ii.      Takes email, name and password
+iii.      Returns an access token and user profile.
+
+Create a user login endpoint
+i.      [POST] Endpoint: {server_url}/api/login
+ii.      This endpoint takes a username and password
+iii.      Returns just an access token
+
+Create a get user endpoint
+i.      [GET] {server_url}/api/user
+ii.      Nothing but the auth token in the request
+iii.      Returns the user profile
+
+Document install instructions
+Document/Test endpoint using postman
+Send me the postman link to the collection you make.
+https://www.getpostman.com/docs/v6/postman/collections/creating_collections
+
+Submit this code to BitBucket or GitHub and share it with me.
+
+Pending the code review, you will move onto the offer round.
+
+Pay attention to syntax, style, architecture.
